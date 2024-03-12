@@ -13,6 +13,9 @@ eg:
     token == 请求头的token
 
     备注#userid#token
+    
+环境必须为 python 3.10
+两个文件必须在同一目录
 多账号以 "回车" 或者 多变量 隔开
 青龙变量为 yczc_ck
 """

@@ -1,6 +1,6 @@
 import asyncio
 
-from lsy_yczc import *
+from ysl_yhzc import *
 
 """
 实物

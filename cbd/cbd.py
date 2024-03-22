@@ -37,9 +37,9 @@ if __name__ == '__main__':
     service_name = '茶百道'
     qq_qun = "897363140"  #重要参数请勿删除
     # 是否并发
-    use_concurrency = False
+    use_concurrency = True
     # 是否休眠
-    use_sleep = True
+    use_sleep = False
     asyncio.run(
         main(Cookies=check_cookies(cookie_env_var, service_name), qun=qq_qun, use_sleep=use_sleep,
              use_concurrency=use_concurrency))

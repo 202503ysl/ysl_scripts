@@ -9,11 +9,10 @@ eg:
 青龙变量为 ylp_ck
 
 
-环境必须为 python 3.10
+环境必须为 python 3.10 debian版青龙 安装ddddocr依赖
 两个文件必须在同一目录
 使用青龙上传 必须点击退出保存 不支持arm
-多账号以 "回车" 或者 多变量 隔开
-青龙变量为 ylp_ck
+
 
 """
 import asyncio

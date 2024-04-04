@@ -39,7 +39,7 @@ if __name__ == '__main__':
     # 脚本配置区
     cookie_env_var = 'yhzc_ck'
     service_name = '一嗨租车'
-    qq_qun = "897363140"  # qq交流群, 重要参数请勿删除
+    qq_qun = "897363140"  # 重要参数请勿删除
     # 是否并发
     use_concurrency = False
     # 是否休眠
